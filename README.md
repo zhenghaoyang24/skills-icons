@@ -1,6 +1,11 @@
 ## Skills Icons 💡
 
-![](./.github/banner.png)
+![Banner](./.github/banner.png)
+
+### Available Languages 🌐
+
+- English ⬅
+- [中文 (Chinese)](./i18n/zh-CN/README.md)
 
 <p align="center">
 English | <a href="/README_zh.md">中文</a>
@@ -18,7 +23,7 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 - https://skills.syvixor.com
 - https://skills-icons.vercel.app
 
-```md
+```markdown
 [![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
 ```
 
@@ -41,6 +46,7 @@ To view all available icons, check out the [URL Builder](https://builder.syvixor
 We welcome contributions from anyone! If you'd like to help, please follow the detailed guidelines in our [CONTRIBUTING.md](.github/CONTRIBUTING.md) file.
 
 #### Ways to Contribute
+
 - Add New Icons: Submit PRs to expand our icon collection.
 - Bug Fixes: Help us identify and fix issues.
 - Documentation: Help improve documentation.
@@ -103,6 +109,10 @@ If you find this project helpful, consider:
 - Starring the repository
 - Sharing it with others
 - Contributing to its development
+
+### Thanks To All The contributors 🙏
+
+[![Contributors](https://contrib.rocks/image?repo=syvixor/skills-icons)](https://github.com/syvixor/skills-icons/graphs/contributors)
 
 ### Powered By 🛟
 
